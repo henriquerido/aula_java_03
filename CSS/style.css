@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+    background-image: url("https://image.freepik.com/vetores-gratis/meteorologia-termometro-celsius-fahrenheit-realista_1284-20825.jpg");
+    text-align: center;
+
+}
+
+.form{
+    margin-top: 200px;
+    background-color: aliceblue;
+    padding: 80px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 180px;
+
+}
+
+.titulo{
+    margin-top: -50px;
+    padding: 20px;
+}
